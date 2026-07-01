@@ -15,7 +15,7 @@ Each `.txt` file contains a single line with the version in `major.minor.patch` 
 Create `{resourceName}.txt` in this repo and push to `main`. The script's config must point to:
 
 ```
-https://raw.githubusercontent.com/ayushabhinav-dev/aj_houserobbery_version/refs/heads/main/{name}.txt
+https://raw.githubusercontent.com/ayushabhinav-dev/AJ_Script_VC/refs/heads/main/{name}.txt
 ```
 
 Where `{name}` is replaced with the resource name at runtime.
